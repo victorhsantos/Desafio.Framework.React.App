@@ -1,0 +1,60 @@
+.container-app {
+    padding-top: 30px;
+    background-color: #f8f9f9;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0 auto;    
+}
+
+
+.container-header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;   
+}
+
+.container-header h1{
+    font-size: 32px;
+    color: #222;
+}
+
+.container-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+}
+
+.container-form h4{
+    padding-top: 15px;
+    padding-bottom: 30px;
+    color: #900020;
+}
+
+.container-rodape{
+    padding-top: 50px;
+    text-align-last: center;
+    color: #cbc9c3;    
+}
+
+.container-form label{
+   font-weight: 600;
+}
+
+.container-btn {
+    padding-top: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-btn .my-btn {
+    width: 170px;
+}
+
+.my-alert {
+   width: 200px;
+
+}

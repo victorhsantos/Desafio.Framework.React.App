@@ -1,12 +1,12 @@
-import './App.css';
+import React from 'react';
+import Operacoes from './pages/Operacoes';
+
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <h1>Desafio Framework React APP</h1>
-      </header>
-    </div>
+    <Operacoes />
   );
 }
 
