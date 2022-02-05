@@ -15,8 +15,8 @@
 }
 
 .container-header h1{
-    font-size: 32px;
-    color: #222;
+    font-size: 40px;    
+    color: #900020;
 }
 
 .container-form {
@@ -29,7 +29,7 @@
 .container-form h4{
     padding-top: 15px;
     padding-bottom: 30px;
-    color: #900020;
+    color: #222;
 }
 
 .container-rodape{
